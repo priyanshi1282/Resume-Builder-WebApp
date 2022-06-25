@@ -162,3 +162,9 @@ a:hover{
     }
 }
 /* media queries end here */
+
+@media print{
+    button{
+        display:none;
+    }
+}
