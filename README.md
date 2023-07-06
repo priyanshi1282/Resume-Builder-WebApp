@@ -1,5 +1,5 @@
 # Resume-Builder-WebApp
-A responsive web app for building your resume just my filling one form.
+A responsive web app for building your resume just by filling one form.
 User can create and download/print the resume.
 
 ### Tech Stack
