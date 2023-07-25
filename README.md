@@ -5,7 +5,7 @@ User can create and download/print the resume.
 ### Tech Stack
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 ### Features
 - Minimalist UI
