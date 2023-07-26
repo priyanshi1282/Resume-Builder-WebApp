@@ -9,6 +9,7 @@ User can create and download/print the resume.
 
 ### Features
 - Minimalist UI
+- Form based interaction
 - User friendly interface
 - Easy to use webapp
 
